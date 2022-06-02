@@ -1,0 +1,2 @@
+C:\Users\sandrapilarperez\source\repos\BillingApp_assemblies\bin\Debug\net462\publish\BillingApp_assemblies.dll
+C:\Users\sandrapilarperez\source\repos\BillingApp_assemblies\bin\Debug\net462\publish\BillingApp_assemblies.pdb

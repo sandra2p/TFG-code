@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sandrapilarperez\\source\\repos\\BillingApp_assemblies\\BillingApp_assemblies.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sandrapilarperez\\source\\repos\\BillingApp_assemblies\\BillingApp_assemblies.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sandrapilarperez\\source\\repos\\BillingApp_assemblies\\BillingApp_assemblies.csproj",
+        "projectName": "BillingApp_assemblies",
+        "projectPath": "C:\\Users\\sandrapilarperez\\source\\repos\\BillingApp_assemblies\\BillingApp_assemblies.csproj",
+        "packagesPath": "C:\\Users\\sandrapilarperez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sandrapilarperez\\source\\repos\\BillingApp_assemblies\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sandrapilarperez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.CrmSdk.CoreAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.2.*, )"
+            },
+            "Microsoft.CrmSdk.XrmTooling.PluginRegistrationTool": {
+              "target": "Package",
+              "version": "[9.1.0.148, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Microsoft.PowerApps.MSBuild.Plugin": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
