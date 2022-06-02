@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "oQI8ryR2PO3ctlRo6F8Q4XIrhch8XFnDQfOm5Q/YJikeNHQeeNXGBdaywXhnHUDuOFILEdOZb/VuwJ4blBGfTA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\sandrapilarperez\\source\\repos\\PuginApi\\PuginApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sandrapilarperez\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\sandrapilarperez\\.nuget\\packages\\microsoft.crmsdk.coreassemblies\\9.0.2.42\\microsoft.crmsdk.coreassemblies.9.0.2.42.nupkg.sha512",
+    "C:\\Users\\sandrapilarperez\\.nuget\\packages\\microsoft.crmsdk.xrmtooling.pluginregistrationtool\\9.1.0.148\\microsoft.crmsdk.xrmtooling.pluginregistrationtool.9.1.0.148.nupkg.sha512",
+    "C:\\Users\\sandrapilarperez\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\sandrapilarperez\\.nuget\\packages\\microsoft.powerapps.msbuild.plugin\\1.15.3\\microsoft.powerapps.msbuild.plugin.1.15.3.nupkg.sha512",
+    "C:\\Users\\sandrapilarperez\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\sandrapilarperez\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\sandrapilarperez\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\sandrapilarperez\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\sandrapilarperez\\.nuget\\packages\\system.text.encodings.web\\5.0.1\\system.text.encodings.web.5.0.1.nupkg.sha512",
+    "C:\\Users\\sandrapilarperez\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512",
+    "C:\\Users\\sandrapilarperez\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\sandrapilarperez\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU3008",
+      "level": "Error",
+      "message": "Package 'Microsoft.NETFramework.ReferenceAssemblies.net462 1.0.0' from source 'https://api.nuget.org/v3/index.json': The package integrity check failed. The package has changed since it was signed. Try clearing the local http-cache and run nuget operation again.",
+      "libraryId": "Microsoft.NETFramework.ReferenceAssemblies.net462"
+    }
+  ]
+}

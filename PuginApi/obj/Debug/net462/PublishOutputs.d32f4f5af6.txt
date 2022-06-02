@@ -1,0 +1,4 @@
+C:\Users\sandrapilarperez\source\repos\PuginApi\bin\Debug\net462\publish\PuginApi.dll
+C:\Users\sandrapilarperez\source\repos\PuginApi\bin\Debug\net462\publish\PuginApi.pdb
+C:\Users\sandrapilarperez\source\repos\PuginApi\bin\Debug\net462\publish\System.Web.Services.dll
+C:\Users\sandrapilarperez\source\repos\PuginApi\bin\Debug\net462\publish\System.Web.Services.xml

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PuginApi</id>
+    <version>1.0.0</version>
+    <authors>sandrapilarperez</authors>
+    <description>This is a sample nuget package to contain a Dataverse plugin and its runtimed dependencies like Newtonsoft.Json</description>
+    <dependencies>
+      <group targetFramework=".NETFramework4.6.2">
+        <dependency id="Microsoft.CrmSdk.XrmTooling.PluginRegistrationTool" version="9.1.0.148" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Debug\net462\publish\System.Web.Services.dll" target="lib\net462\System.Web.Services.dll" />
+    <file src="bin\Debug\net462\publish\System.Web.Services.xml" target="lib\net462\System.Web.Services.xml" />
+    <file src="C:\Users\sandrapilarperez\source\repos\PuginApi\bin\Debug\net462\PuginApi.dll" target="lib\net462\PuginApi.dll" />
+  </files>
+</package>
