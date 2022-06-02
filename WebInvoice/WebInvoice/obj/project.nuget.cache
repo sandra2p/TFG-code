@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "syXQlD6dSrVz4kl74O/r1NN8Xl4htFnoz+tQazKTGh3GjyT8qQisSRNFz7XP0LvL+2IJUmKggIzxQKdzDf8BHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sandrapilarperez\\source\\repos\\WebInvoice\\WebInvoice\\WebInvoice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sandrapilarperez\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sandrapilarperez\\.nuget\\packages\\microsoft.typescript.msbuild\\4.6.4\\microsoft.typescript.msbuild.4.6.4.nupkg.sha512",
+    "C:\\Users\\sandrapilarperez\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

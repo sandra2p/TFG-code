@@ -1,0 +1,10 @@
+C:\Users\sandrapilarperez\source\repos\WebInvoice\WebInvoice\bin\Debug\netstandard2.0\WebInvoice.deps.json
+C:\Users\sandrapilarperez\source\repos\WebInvoice\WebInvoice\bin\Debug\netstandard2.0\WebInvoice.dll
+C:\Users\sandrapilarperez\source\repos\WebInvoice\WebInvoice\bin\Debug\netstandard2.0\WebInvoice.pdb
+C:\Users\sandrapilarperez\source\repos\WebInvoice\WebInvoice\obj\Debug\netstandard2.0\WebInvoice.csproj.AssemblyReference.cache
+C:\Users\sandrapilarperez\source\repos\WebInvoice\WebInvoice\obj\Debug\netstandard2.0\WebInvoice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandrapilarperez\source\repos\WebInvoice\WebInvoice\obj\Debug\netstandard2.0\WebInvoice.AssemblyInfoInputs.cache
+C:\Users\sandrapilarperez\source\repos\WebInvoice\WebInvoice\obj\Debug\netstandard2.0\WebInvoice.AssemblyInfo.cs
+C:\Users\sandrapilarperez\source\repos\WebInvoice\WebInvoice\obj\Debug\netstandard2.0\WebInvoice.csproj.CoreCompileInputs.cache
+C:\Users\sandrapilarperez\source\repos\WebInvoice\WebInvoice\obj\Debug\netstandard2.0\WebInvoice.dll
+C:\Users\sandrapilarperez\source\repos\WebInvoice\WebInvoice\obj\Debug\netstandard2.0\WebInvoice.pdb
